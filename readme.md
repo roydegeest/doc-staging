@@ -1,1 +1,1 @@
-Hello world, doc-staging.
+<rk-redirect to="/wisgate/rak7240/overview" />
